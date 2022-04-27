@@ -24,9 +24,8 @@ a.nounderline:hover {
 }
 
 .game-cont {
-    padding-bottom: 6rem;
-    border-bottom: 1px solid grey;
     text-align: center;
+    margin-bottom: 4rem;
 }
 
 .game-music {
@@ -78,3 +77,12 @@ a.nounderline:hover {
 #game-quote{
     font-size: 12px;
 }
+
+.carousel{
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 1600px;
+    border-bottom: 1px solid grey;
+    padding: 2rem;
+    padding-bottom: 10rem;
+  }
