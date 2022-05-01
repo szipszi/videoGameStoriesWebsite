@@ -83,6 +83,6 @@ a.nounderline:hover {
     margin-left: auto;
     max-width: 1600px;
     border-bottom: 1px solid grey;
-    padding: 2rem;
+    padding: 0rem;
     padding-bottom: 10rem;
   }
